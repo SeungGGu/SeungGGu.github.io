@@ -135,11 +135,11 @@ ___
 - `![사진이름](사진경로)`
 
 ```markdown
-![Minion](http://octodex.github.com/images/minion.png)
+![Minion](https://octodex.github.com/images/minion.png)
 ```
 
 - 출력결과
 
-![Minion](http://octodex.github.com/images/minion.png)
+![Minion](https://octodex.github.com/images/minion.png)
 
-나중에 블로그 포스팅을 할때 MarkDown 언어에 대해 궁금한게 더 생긴다면 이어서 포스팅하겠다.
+- 나중에 블로그 포스팅을 할때 MarkDown 언어에 대해 궁금한게 더 생긴다면 이어서 포스팅하겠다
